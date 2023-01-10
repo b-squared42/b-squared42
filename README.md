@@ -10,10 +10,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=B-squared42&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=B-squared42&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=B-squared42&icon=0&color=1)
