@@ -9,7 +9,7 @@ I worked on multiple Android Apps and I'm currently building Backend-REST-Servic
 
 - 🔭 I’m currently working on **Backend-Services for telephony handling**
 
-- 🌱 I’m currently learning **Springboot and how to solve a Rubik’s Cube**
+- 🌱 I’m currently learning **Springboot** and **how to solve a Rubik’s Cube**
 
 - ⚡ Fun fact: I literally asked ChatGPT for a fun fact about me considering all chats we had: **"You're up for challenges and a bit of adventure."**
 
