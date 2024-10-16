@@ -1,4 +1,4 @@
-<h1 align="center">Naaaa! 👋 I'm Benji</h1>
+<h1 align="center">Naaaa? 👋 I'm Benji</h1>
 
 <h5 align="center">
 ... and I'm a Dev from Germany 🤖🇩🇪
@@ -11,7 +11,7 @@ I worked on multiple Android Apps and I'm currently building Backend-REST-Servic
 
 - 🌱 I’m currently learning **Springboot and how to solve a Rubik’s Cube**
 
-- ⚡ Fun fact: **I literally asked ChatGPT for a fun fact about me considering all chats we had: "You're up for challenges and a bit of adventure."**
+- ⚡ Fun fact: I literally asked ChatGPT for a fun fact about me considering all chats we had: **"You're up for challenges and a bit of adventure."**
 
 <h2 align="left">Some Icons:</h2>
 
