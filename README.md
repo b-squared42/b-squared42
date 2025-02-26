@@ -3,7 +3,7 @@
 <h5 align="center">
 ... and I'm a Dev from Germany 🤖🇩🇪
   
-I worked on multiple Android Apps and I'm currently building Backend-REST-Services 🌐🔀</h5><br>
+I worked on multiple Android Apps and I'm currently building Backend-REST-Services (with Kafka) 🌐🔀</h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
 
@@ -18,9 +18,9 @@ I worked on multiple Android Apps and I'm currently building Backend-REST-Servic
 <p align='left'>
 <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/>
 <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/kotlin.svg" width='40' height='40' title='kotlin'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/typescript.svg" width='40' height='40' title='typescript'/>
+<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/typescript.svg" width='40' height='40' title='typescript'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/>
 <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/>
-<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/>
 <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/spring.svg" width='40' height='40' title='spring'/>
 <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='nginx'/>
 <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/android.svg" width='40' height='40' title='android'/>
